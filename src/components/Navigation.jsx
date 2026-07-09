@@ -13,6 +13,8 @@ const Navigation = () => {
         <a class="nav-link active" aria-current="page" href="/">Add Product</a>
         <a class="nav-link" href="/search">Search Product</a>
         <a class="nav-link" href="/delete">Delete Product</a>
+        <a class="nav-link" href="/view">View Product</a>
+
         
         
       </div>
